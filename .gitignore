@@ -39,3 +39,5 @@ public/bundle.js
 public/bundle.js.map
 public/style.css
 .eslintignore
+
+.vscode
