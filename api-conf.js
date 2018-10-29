@@ -1,7 +1,7 @@
 export default {
   changent: {
-    port: 8081,
-    host: '0.0.0.0',
+    port: 8080,
+    host: 'localhost',
     get serverApi() {
       return `http://${this.host}:${this.port}/api`
     }
